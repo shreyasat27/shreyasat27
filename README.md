@@ -1,16 +1,36 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! 
+
 <!--
 **shreyasat27/shreyasat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<br> 🔭 I’m currently working on quantum artificial intelligence
+<br> 🌱 I’m currently learning machine learning
+<br> 👯 I’m looking to collaborate on quantum computing
+<br> 🤔 I’m looking for help with quantum artificial intelligence
+<br> 💬 Ask me about quantum computing
+<br> 📫 How to reach me: don't reach me
+<br> 😄 Pronouns: she/her
+<br> ⚡ Fun fact: I do almost every thing
+
+
+🔭 I'm currently working on projects that involve leveraging quantum artificial intelligence, machine learning, and quantum computing to solve problems around the universe. 
+  <!--
+💡 My repositories showcase my work in various domains, including image processing,  and more. 
+-->
+
+<div align="center">
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyasat27&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasat27&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
+</div>
