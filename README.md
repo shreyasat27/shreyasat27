@@ -8,14 +8,14 @@ Welcome to my GitHub profile!
 Here are some ideas to get you started:
 -->
 
-<br> 🔭 I’m currently working on quantum artificial intelligence
-<br> 🌱 I’m currently learning machine learning
+<br> 🔭 I’m currently working on quantum computing
+<br> 🌱 I’m currently learning quantum computing
 <br> 👯 I’m looking to collaborate on quantum computing
-<br> 🤔 I’m looking for help with quantum artificial intelligence
+<br> 🤔 I’m looking for help with quantum computing
 <br> 💬 Ask me about quantum computing
-<br> 📫 How to reach me: don't reach me
+<br> 📫 How to reach me: Shreya Satsangi (On LinkedIn)
 <br> 😄 Pronouns: she/her
-<br> ⚡ Fun fact: I do almost every thing
+<br> ⚡ Fun fact: I sing 
 
 
 🔭 I'm currently working on projects that involve leveraging quantum artificial intelligence, machine learning, and quantum computing to solve problems around the universe. 
