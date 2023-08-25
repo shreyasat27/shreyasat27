@@ -1,21 +1,20 @@
-### Hi there 👋
+### Hi, how are you? 👋
 
-Welcome to my GitHub profile! 
-
+I'm Shreya, an undergraduate student of physics, not just restricted to Lagrange and Hamiltonian as I do work in computer science, mathematics and cognitive science.
 <!--
 **shreyasat27/shreyasat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+science
 Here are some ideas to get you started:
 -->
 
-<br> 🔭 I’m currently working on quantum computing
+<br> 🔭 I’m currently studying physics
 <br> 🌱 I’m currently learning quantum computing
-<br> 👯 I’m looking to collaborate on quantum computing
+<br> 👯 I’m looking to collaborate on quantum physics-related projects
 <br> 🤔 I’m looking for help with quantum computing
-<br> 💬 Ask me about quantum computing
+<br> 💬 Ask me about physics, cognitive science
 <br> 📫 How to reach me: Shreya Satsangi (On LinkedIn)
 <br> 😄 Pronouns: she/her
-<br> ⚡ Fun fact: I sing 
+<br> ⚡ Fun fact: I sing, write, walk, talk and do gardening
 
 
 🔭 I'm currently working on projects that involve leveraging quantum artificial intelligence, machine learning, and quantum computing to solve problems around the universe. 
