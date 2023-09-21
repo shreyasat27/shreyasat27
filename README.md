@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shreyasat27&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasat27&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasat27&hide_progress=true)
 </div>
 
 </div>
