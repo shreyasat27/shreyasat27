@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyasat27)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasat27&hide_progress=true)
-</div>
 
 </div>
+
+
