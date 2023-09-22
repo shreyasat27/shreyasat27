@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasat27&hide_progress=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasat27&theme=light" alt="shreyasat27" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasat27&show_icons=true&locale=en&layout=compact&theme=light" alt="shreyasat27" /></p>
+
 </div>
 
 
