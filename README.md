@@ -1,6 +1,6 @@
 ### Hi, how are you? 👋
 
-I'm Shreya, an undergraduate physics student, not just restricted to Lagrange and Hamiltonian equations as I do work in computer science, mathematics and cognitive science.
+I'm Shreya, an undergraduate physics student. 
 <!--
 **shreyasat27/shreyasat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 science
