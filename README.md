@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <br> 🔭 I’m currently studying physics
 <br> 😄 Pronouns: she/her
-<br> ⚡ Fun fact: I sing, write, walk, talk and do gardening
+
 
 
 
