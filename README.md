@@ -1,6 +1,6 @@
 ### Hi, how are you? 👋
 
-I'm Shreya, an undergraduate physics student. 
+I'm Shreya, a master's student at UIMP studying Quantum Technologies.  
 <!--
 **shreyasat27/shreyasat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 science
